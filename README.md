@@ -2,7 +2,7 @@
 
 Plase contact Jeremy Dawson ( jeremy.dawson@mail.wvu.edu )
 
-**Participant** count: 300 (1 session unless otherwise noted below)
+**Participant Count**: 300 (1 session unless otherwise noted below)
 
 **Contains the following data types**:
 
